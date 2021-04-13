@@ -1,0 +1,11 @@
+{
+  "TOKEN": "Discord Bot Token",
+  "YOUTUBE_API_KEY": "YOUTUBE_API_KEY",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 100,
+  "PREFIX": "PREFIX",
+  "PRUNING": false,
+  "LOCALE": "en",
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
