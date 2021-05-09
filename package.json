@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JimSimYT/codsworth.git"
+    "url": "git+https://github.com/SophiaAtkinson/codsworth.git"
   },
   "keywords": [
     "discord-bot"
   ],
   "author": "Sophia Atkinson, Erit Islami",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/JimSimYT/codsworth/issues"
+    "url": "https://github.com/SophiaAtkinson/codsworth/issues"
   },
-  "homepage": "https://github.com/JimSimYT/codsworth#readme"
+  "homepage": "https://github.com/SophiaAtkinson/codsworth#readme"
 }
