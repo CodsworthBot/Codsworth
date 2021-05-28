@@ -1,3 +1,3 @@
 # Codsworth
 
-## to install this npm install
+## to install this us npm install
