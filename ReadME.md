@@ -14,13 +14,21 @@ open codsworths folder in cmd and do npm install and it should intall all of its
 
 {
   "TOKEN": "Discord Bot Token", //Put your discord bot token
+  
   "YOUTUBE_API_KEY": "YOUTUBE_API_KEY", // put your youtube api key from [Here](https://console.cloud.google.com/)
+  
   "SOUNDCLOUD_CLIENT_ID": "",
+  
   "MAX_PLAYLIST_SIZE": 100,
+  
   "PREFIX": "PREFIX", //Pick a prefix
+  
   "PRUNING": false, // if you want the bot to delete its own messages
+  
   "LOCALE": "en", // Keep the same if you want english
+  
   "STAY_TIME": 30, // how long you want it to stay in the vc for
+  
   "DEFAULT_VOLUME": 100
 }
 
