@@ -8,7 +8,7 @@
 # guide for beginners.
 
 You need to have [Node.js](https://nodejs.org) V 16.3.0 or v14.17.0 LTS
-open codsworths folder in cmd and do npm install and it should intall all of its dependencies.
+open codsworths folder in cmd and do npm install and it should install all of its dependencies.
 
 ### Config.json
 
